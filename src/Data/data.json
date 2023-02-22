@@ -1,0 +1,19 @@
+{
+  "movies": [
+    {
+      "id": 3,
+      "movie_name": "It",
+      "rating": 5.8
+    },
+    {
+      "id": 7146,
+      "movie_name": "Encanto",
+      "rating": "8"
+    },
+    {
+      "id": 8019,
+      "movie_name": "gone",
+      "rating": "5.5"
+    }
+  ]
+}
